@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="153140" started-at="2020-08-18T21:03:58 IST" finished-at="2020-08-18T21:06:31 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="153140" started-at="2020-08-18T21:03:58 IST" finished-at="2020-08-18T21:06:31 IST">
+      <class name="com.wordpress.qa.testcases.MarathiPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.MarathiPageTest@631330c]" name="setup" is-config="true" duration-ms="21004" started-at="2020-08-18T21:05:54 IST" finished-at="2020-08-18T21:06:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifilogo()[pri:1, instance:com.wordpress.qa.testcases.MarathiPageTest@631330c]" name="verifilogo" duration-ms="3451" started-at="2020-08-18T21:06:15 IST" finished-at="2020-08-18T21:06:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifilogo -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.MarathiPageTest@631330c]" name="teardown" is-config="true" duration-ms="929" started-at="2020-08-18T21:06:18 IST" finished-at="2020-08-18T21:06:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.MarathiPageTest@631330c]" name="setup" is-config="true" duration-ms="11269" started-at="2020-08-18T21:06:19 IST" finished-at="2020-08-18T21:06:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="products()[pri:2, instance:com.wordpress.qa.testcases.MarathiPageTest@631330c]" name="products" duration-ms="192" started-at="2020-08-18T21:06:30 IST" finished-at="2020-08-18T21:06:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- products -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.MarathiPageTest@631330c]" name="teardown" is-config="true" duration-ms="759" started-at="2020-08-18T21:06:30 IST" finished-at="2020-08-18T21:06:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.wordpress.qa.testcases.MarathiPageTest -->
+      <class name="com.wordpress.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.LoginPageTest@1a8a8f7c]" name="setup" is-config="true" duration-ms="12726" started-at="2020-08-18T21:04:26 IST" finished-at="2020-08-18T21:04:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AddtocartTest(java.lang.String, java.lang.String)[pri:0, instance:com.wordpress.qa.testcases.LoginPageTest@1a8a8f7c]" name="AddtocartTest" duration-ms="3711" started-at="2020-08-18T21:04:39 IST" data-provider="getData" finished-at="2020-08-18T21:04:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[surajraje096@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[suraj@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtocartTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.LoginPageTest@1a8a8f7c]" name="teardown" is-config="true" duration-ms="782" started-at="2020-08-18T21:04:43 IST" finished-at="2020-08-18T21:04:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.wordpress.qa.testcases.LoginPageTest -->
+      <class name="com.wordpress.qa.testcases.IndexPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.IndexPageTest@2353b3e6]" name="setup" is-config="true" duration-ms="20038" started-at="2020-08-18T21:04:44 IST" finished-at="2020-08-18T21:05:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifilogo()[pri:1, instance:com.wordpress.qa.testcases.IndexPageTest@2353b3e6]" name="verifilogo" duration-ms="154" started-at="2020-08-18T21:05:04 IST" finished-at="2020-08-18T21:05:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifilogo -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.IndexPageTest@2353b3e6]" name="teardown" is-config="true" duration-ms="960" started-at="2020-08-18T21:05:04 IST" finished-at="2020-08-18T21:05:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.IndexPageTest@2353b3e6]" name="setup" is-config="true" duration-ms="14321" started-at="2020-08-18T21:05:05 IST" finished-at="2020-08-18T21:05:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifieTital()[pri:2, instance:com.wordpress.qa.testcases.IndexPageTest@2353b3e6]" name="verifieTital" duration-ms="17" started-at="2020-08-18T21:05:19 IST" finished-at="2020-08-18T21:05:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifieTital -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.IndexPageTest@2353b3e6]" name="teardown" is-config="true" duration-ms="1432" started-at="2020-08-18T21:05:19 IST" finished-at="2020-08-18T21:05:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.IndexPageTest@2353b3e6]" name="setup" is-config="true" duration-ms="15920" started-at="2020-08-18T21:05:21 IST" finished-at="2020-08-18T21:05:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchProduct()[pri:3, instance:com.wordpress.qa.testcases.IndexPageTest@2353b3e6]" name="searchProduct" duration-ms="15774" started-at="2020-08-18T21:05:36 IST" finished-at="2020-08-18T21:05:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.IndexPageTest@2353b3e6]" name="teardown" is-config="true" duration-ms="1362" started-at="2020-08-18T21:05:52 IST" finished-at="2020-08-18T21:05:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.wordpress.qa.testcases.IndexPageTest -->
+      <class name="com.wordpress.qa.testcases.COLLABSPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.COLLABSPageTest@51e2adc7]" name="setup" is-config="true" duration-ms="21714" started-at="2020-08-18T21:03:58 IST" finished-at="2020-08-18T21:04:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifilogo()[pri:1, instance:com.wordpress.qa.testcases.COLLABSPageTest@51e2adc7]" name="verifilogo" duration-ms="3141" started-at="2020-08-18T21:04:20 IST" finished-at="2020-08-18T21:04:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifilogo -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.COLLABSPageTest@51e2adc7]" name="teardown" is-config="true" duration-ms="1364" started-at="2020-08-18T21:04:23 IST" finished-at="2020-08-18T21:04:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.wordpress.qa.testcases.COLLABSPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
